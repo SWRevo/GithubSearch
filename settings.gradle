@@ -1,0 +1,3 @@
+include ':gitreposearch'
+include ':app'
+rootProject.name = "GithubSearch"
