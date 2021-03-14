@@ -19,7 +19,7 @@ repositories {
 
 dependencies {
 
-    implementation 'com.github.SWRevo:YtbSubscribeButton:1.1.1'
+    implementation 'com.github.SWRevo:GithubSearch:Tag'
 
 }
 
